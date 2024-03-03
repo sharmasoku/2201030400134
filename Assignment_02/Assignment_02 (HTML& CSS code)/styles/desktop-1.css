@@ -1,0 +1,132 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-1-FA7 {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.desktop-1-FA7 .home-NEj {
+  width: 7.9rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 100rem;
+  top: 8.4rem;
+  font-size: 2.6261rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-FA7 .image10-1-SkP {
+  width: 144rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-FA7 .fitflex-nJT {
+  width: 27.8rem;
+  height: 10.8rem;
+  position: absolute;
+  left: 5.6rem;
+  top: 1.4rem;
+  font-size: 8.8586rem;
+  font-weight: 700;
+  line-height: 1.2102272081;
+  text-decoration-line: underline;
+  color: #0e0c0c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.desktop-1-FA7 .fitflex-nJT .fitflex-nJT-sub-0 {
+  font-size: 8.8586rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #0e0c0c;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-FA7 .fitflex-nJT .fitflex-nJT-sub-1 {
+  font-size: 8.8586rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #a01313;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-FA7 .fitflex-nJT .fitflex-nJT-sub-2 {
+  font-size: 8.8586rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #0e0c0c;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-FA7 .fitflex-nJT .fitflex-nJT-sub-3 {
+  font-size: 8.8586rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #a00404;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-FA7 .flex-your-fitness-potential-7Nf {
+  width: 33.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 5.6rem;
+  top: 13.3rem;
+  font-size: 2.46rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: 0.0492rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-FA7 .loading-1-Cf1 {
+  width: 6.4037rem;
+  height: 6.4037rem;
+  cursor: pointer;
+  position: absolute;
+  left: 134rem;
+  top: 91.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-FA7 .loading-XSP {
+  width: 6.9rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 134rem;
+  top: 98.1rem;
+  font-size: 1.8678rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.0374rem;
+  color: #f8f8f8;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+

@@ -1,0 +1,184 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-6-Au5 {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/a-hall-of-gym-with-single-dumbel-and-dark-backgrou-upscaled-2-bg.png');
+  background-color: #ffffff;
+}
+.desktop-6-Au5 .how-tall-are-you-JkP {
+  width: 37.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 53.2rem;
+  top: 63.3rem;
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-6-Au5 .skip-mts {
+  width: 4rem;
+  height: 2.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 137.2rem;
+  top: 1.3rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-6-Au5 .auto-group-9yfz-VZy {
+  width: 123.9rem;
+  height: 14.7rem;
+  position: absolute;
+  left: 8.5rem;
+  top: 84.5rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-6-Au5 .auto-group-9yfz-VZy .auto-group-ysc3-247 {
+  margin: 5rem 15.1rem 2.5rem 0rem;
+  width: 33.4rem;
+  height: calc(100% - 7.5rem);
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3bae1e;
+  flex-shrink: 0;
+}
+.desktop-6-Au5 .auto-group-9yfz-VZy .auto-group-7psy-6Js {
+  margin: 0rem 39.2rem 9.6rem 0rem;
+  box-sizing: border-box;
+  padding: 0rem 1.1rem 0rem 1rem;
+  display: flex;
+  align-items: center;
+  border-top: solid 0.1rem #ffffff;
+  flex-shrink: 0;
+}
+.desktop-6-Au5 .auto-group-9yfz-VZy .auto-group-7psy-6Js .item-183-D8b {
+  margin: 0.8rem 7.6rem 0rem 0rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-6-Au5 .auto-group-9yfz-VZy .auto-group-7psy-6Js .ft-in-Xf5 {
+  margin-bottom: 0.8rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-6-Au5 .auto-group-9yfz-VZy .fitflex-3tK {
+  margin-top: 9.8rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2102272034;
+  text-decoration-line: underline;
+  color: #0e0c0c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.desktop-6-Au5 .auto-group-9yfz-VZy .fitflex-3tK .fitflex-3tK-sub-0 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-6-Au5 .auto-group-9yfz-VZy .fitflex-3tK .fitflex-3tK-sub-1 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #a01313;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-6-Au5 .auto-group-9yfz-VZy .fitflex-3tK .fitflex-3tK-sub-2 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-6-Au5 .auto-group-9yfz-VZy .fitflex-3tK .fitflex-3tK-sub-3 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #a00404;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-6-Au5 .auto-group-voxs-dtT {
+  width: 23.6rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 57rem;
+  top: 77.5rem;
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-top: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+}
+.desktop-6-Au5 .item-181-vMm {
+  width: 5.8rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 58rem;
+  top: 72.2rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}

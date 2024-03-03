@@ -1,0 +1,221 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-3-z7Z {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/a-gym-man-with-dumbles-upscaled-1-bg.png');
+  background-color: #cf2424;
+}
+.desktop-3-z7Z .how-often-do-you-exercise-HsM {
+  width: 61.9rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 6rem;
+  top: 9.1rem;
+  font-size: 4.5rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-z7Z .auto-group-m2mm-zWs {
+  width: 50.6rem;
+  height: 11rem;
+  position: absolute;
+  left: 6rem;
+  top: 22.8rem;
+  background-color: #d9d9d9;
+}
+.desktop-3-z7Z .auto-group-m2mm-zWs .beginner-8NB {
+  width: 19.9rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 1.3rem;
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-z7Z .auto-group-m2mm-zWs .just-start-exercising-Stf {
+  width: 22.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 13.9rem;
+  top: 6.7rem;
+  font-size: 2.4rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-z7Z .auto-group-kuqz-XQK {
+  width: 50.6rem;
+  height: 11rem;
+  position: absolute;
+  left: 6rem;
+  top: 60.4rem;
+  background-color: #d9d9d9;
+}
+.desktop-3-z7Z .auto-group-kuqz-XQK .advance-G71 {
+  width: 19.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 15.3rem;
+  top: 1.2rem;
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-z7Z .auto-group-kuqz-XQK .over-4-times-a-week-yn7 {
+  width: 22.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 13.9rem;
+  top: 6.6rem;
+  font-size: 2.4rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-z7Z .auto-group-1nkq-TBV {
+  width: 50.6rem;
+  height: 11rem;
+  position: absolute;
+  left: 6rem;
+  top: 41.6rem;
+  background-color: #d9d9d9;
+}
+.desktop-3-z7Z .auto-group-1nkq-TBV .times-a-week-nzT {
+  width: 18.8rem;
+  height: 3rem;
+  position: absolute;
+  left: 16rem;
+  top: 5.5rem;
+  font-size: 2.4rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-z7Z .auto-group-1nkq-TBV .intermediate-KDh {
+  width: 28.3rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 12.1rem;
+  top: 0.5rem;
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-z7Z .skip-S3R {
+  width: 4rem;
+  height: 2.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 137.2rem;
+  top: 1.3rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-z7Z .auto-group-pf43-MAP {
+  width: 33.4rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 6rem;
+  top: 89rem;
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3bae1e;
+}
+.desktop-3-z7Z .fitflex-3Z1 {
+  width: 12.6rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 129.6rem;
+  top: 96.2rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2102272034;
+  text-decoration-line: underline;
+  color: #0e0c0c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.desktop-3-z7Z .fitflex-3Z1 .fitflex-3Z1-sub-0 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-3-z7Z .fitflex-3Z1 .fitflex-3Z1-sub-1 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #a01313;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-3-z7Z .fitflex-3Z1 .fitflex-3Z1-sub-2 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-3-z7Z .fitflex-3Z1 .fitflex-3Z1-sub-3 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #a00404;
+  font-family: Inter, 'Source Sans Pro';
+}

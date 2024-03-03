@@ -1,0 +1,141 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-9-DFd {
+  box-sizing: border-box;
+  padding: 1.2rem 3rem 13.3rem 3rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.desktop-9-DFd .fitflex-hRh {
+  margin: 0rem 125.4rem 5rem 0rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2102272034;
+  text-decoration-line: underline;
+  color: #0e0c0c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.desktop-9-DFd .fitflex-hRh .fitflex-hRh-sub-0 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-9-DFd .fitflex-hRh .fitflex-hRh-sub-1 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #a01313;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-9-DFd .fitflex-hRh .fitflex-hRh-sub-2 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-9-DFd .fitflex-hRh .fitflex-hRh-sub-3 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #a00404;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-9-DFd .auto-group-5hov-Dwm {
+  margin: 0rem 25.6rem 1rem 27.9rem;
+  width: calc(100% - 53.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-9-DFd .auto-group-5hov-Dwm .bodyweight-MYB {
+  margin-right: 31.8rem;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-9-DFd .auto-group-5hov-Dwm .dumbbell-VuH {
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-9-DFd .line-4-3fu {
+  margin: 0rem 0rem 3.7rem 63.5rem;
+  width: 19.7rem;
+  height: 0.4rem;
+  background-color: #316aff;
+  flex-shrink: 0;
+}
+.desktop-9-DFd .auto-group-beij-NiB {
+  margin: 0rem 11rem 0rem 2rem;
+  width: calc(100% - 13rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.desktop-9-DFd .auto-group-beij-NiB .screenshot-2024-03-01-002612-1-KNX {
+  margin: 0rem 11.9rem 1rem 0rem;
+  width: 65.4rem;
+  height: 61.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-9-DFd .auto-group-beij-NiB .image-12-2Xq {
+  width: 47.7rem;
+  height: 66.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+button{
+  background-color: #045aec; /* Green background */
+  border: none; /* No borders */
+  color: white; /* White text */
+  padding: 15px 32px; /* Some padding */
+  text-align: center; /* Centered text */
+  text-decoration: none; /* No decoration */
+  display: inline-block; /* Make it an inline block */
+  font-size: 16px; /* Set the font size */
+  margin: 4px 2px; /* Add some margin */
+  cursor: pointer; /* Mouse cursor on hover */
+  border-radius: 12px; /* Rounded corners */
+}

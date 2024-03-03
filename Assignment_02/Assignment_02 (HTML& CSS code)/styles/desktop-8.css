@@ -1,0 +1,81 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-8-CP9 {
+  box-sizing: border-box;
+  padding: 8.5rem 41.7rem 14.863rem 32.7rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.desktop-8-CP9 .your-plan-is-ready-iMV {
+  margin: 0rem 3rem 1.8rem 0rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-8-CP9 .we-have-selected-this-plan-that-suits-you-best-QVD {
+  margin-bottom: 9.2rem;
+  font-size: 3.2rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-8-CP9 .auto-group-ovsd-vyM {
+  margin: 0rem 2.7rem 9.663rem 1.9rem;
+  width: calc(100% - 4.6rem);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-3-bg.png');
+  flex-shrink: 0;
+}
+.desktop-8-CP9 .auto-group-ovsd-vyM .image-11-3YB {
+  width: 65rem;
+  height: 36.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-8-CP9 .auto-group-x26s-hMq {
+  margin: 0rem 16.19rem 0rem 14.591rem;
+  width: calc(100% - 30.781rem);
+  height: 10.0738rem;
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-26.png');
+  flex-shrink: 0;
+}
